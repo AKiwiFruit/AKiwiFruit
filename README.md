@@ -1,5 +1,5 @@
 ## hi
-
+Physics and Computer Science at The University of British Columbia 😄
 <!--
 **AKiwiFruit/AKiwiFruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
