@@ -1,5 +1,5 @@
-## hi
-Physics and Computer Science at The University of British Columbia 😄
+### Physics and Computer Science Student at The University of British Columbia 😄
+Currently on co-op at BIO
 <!--
 **AKiwiFruit/AKiwiFruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
